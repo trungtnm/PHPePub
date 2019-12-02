@@ -1,7 +1,7 @@
 {
-    "name": "grandt/phpepub",
+    "name": "trungtnm/phpepub",
     "type": "library",
-    "description": "Package to create and stream e-books in the ePub 2.0 and 3.0 formats.",
+    "description": "Package to create and stream e-books in the ePub 2.0 and 3.0 formats. Forked by trungtnm",
     "keywords": ["epub", "e-book"],
     "homepage": "https://github.com/Grandt/PHPZip",
     "license": "LGPL-2.1",
